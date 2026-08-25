@@ -1,1 +1,1 @@
-# ADW2025
+# Analisis Deret Waktu
